@@ -1,0 +1,74 @@
+[
+    {
+        "id_servicio": "50",
+        "descripcion": "ruedo pantalon",
+        "tipo": "1",
+        "precioUnitario": "250",
+        "cantidad": "2",
+        "totalServicio": 500.0
+    },
+    {
+        "id_servicio": "53",
+        "descripcion": "cierre pantalon",
+        "tipo": "1",
+        "precioUnitario": "600",
+        "cantidad": "4",
+        "totalServicio": 2400.0
+    },
+    {
+        "id_servicio": "59",
+        "descripcion": "cambio cierre",
+        "tipo": "1",
+        "precioUnitario": "700",
+        "cantidad": "2",
+        "totalServicio": 1400.0
+    },
+    {
+        "id_servicio": "61",
+        "descripcion": "aplique capucha",
+        "tipo": "1",
+        "precioUnitario": "260",
+        "cantidad": "1",
+        "totalServicio": 260.0
+    },
+    {
+        "id_servicio": "62",
+        "descripcion": "ruedo pantalon",
+        "tipo": "1",
+        "precioUnitario": "250",
+        "cantidad": "2",
+        "totalServicio": 500.0
+    },
+    {
+        "id_servicio": "65",
+        "descripcion": "cambio cierre",
+        "tipo": "1",
+        "precioUnitario": "700",
+        "cantidad": "2",
+        "totalServicio": 1400.0
+    },
+    {
+        "id_servicio": "67",
+        "descripcion": "aplique capucha",
+        "tipo": "1",
+        "precioUnitario": "260",
+        "cantidad": "1",
+        "totalServicio": 260.0
+    },
+    {
+        "id_servicio": "69",
+        "descripcion": "cambio cierre",
+        "tipo": "1",
+        "precioUnitario": "700",
+        "cantidad": "1",
+        "totalServicio": 700.0
+    },
+    {
+        "id_servicio": "70",
+        "descripcion": "cierre pantalon",
+        "tipo": "1",
+        "precioUnitario": "600",
+        "cantidad": "2",
+        "totalServicio": 1200.0
+    }
+]
